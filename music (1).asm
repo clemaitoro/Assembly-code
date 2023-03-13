@@ -1,5 +1,3 @@
-
-
 .device atmega328p ; what type of processor do we use? don’t change!
 
 .equ DDRB = 4 ; address of data direction register; don’t change!
